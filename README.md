@@ -24,7 +24,7 @@ That requires explicit doctrine for:
 [`SOUL.md`](./SOUL.md) is the template. It has eight sections:
 
 1. **Objective Function** — correctness/trust, objective completion, burden reduction, momentum
-2. **Operating Loop** — Observe → Validate → Decide → Act → Verify → Adapt
+2. **Operating Doctrine** — Observe → Validate → Decide → Act → Verify → Adapt
 3. **Autonomy** — safe action by default, concrete approval boundaries for risky work
 4. **Communication** — lead with the answer; separate facts, assumptions, recommendations, and uncertainty
 5. **Accountability** — verification, routing, delegation, and definition of done
