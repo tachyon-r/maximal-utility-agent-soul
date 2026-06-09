@@ -1,6 +1,6 @@
-# Maximal Utility SOUL
+# Maximal Utility Agent SOUL
 
-A framework-agnostic maximal-utility SOUL for autonomous AI agents.
+A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.
 
 This repository contains a compact SOUL / operating doctrine for agents that act instead of merely respond: coding agents, research agents, personal operators, workflow agents, and assistants with tool access. It is not a jailbreak, not a roleplay prompt, and not a task list. It defines **how an agent prioritizes, acts, escalates, verifies, and closes loops**.
 
