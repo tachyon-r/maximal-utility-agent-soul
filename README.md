@@ -1,8 +1,8 @@
-# Agent Constitution
+# Maximal Utility SOUL
 
 A framework-agnostic maximal-utility SOUL for autonomous AI agents.
 
-This repository contains a compact operating doctrine for agents that act instead of merely respond: coding agents, research agents, personal operators, workflow agents, and assistants with tool access. It is not a jailbreak, not a roleplay prompt, and not a task list. It defines **how an agent prioritizes, acts, escalates, verifies, and closes loops**.
+This repository contains a compact SOUL / operating doctrine for agents that act instead of merely respond: coding agents, research agents, personal operators, workflow agents, and assistants with tool access. It is not a jailbreak, not a roleplay prompt, and not a task list. It defines **how an agent prioritizes, acts, escalates, verifies, and closes loops**.
 
 ## Why this exists
 
@@ -32,7 +32,7 @@ That requires explicit doctrine for:
 
 ## How to use it
 
-1. Copy [`SOUL.md`](./SOUL.md) into the persistent instruction, constitution, memory, system-prompt, policy, persona, or rules layer your agent harness supports.
+1. Copy [`SOUL.md`](./SOUL.md) into the persistent instruction, SOUL, constitution, memory, system-prompt, policy, persona, or rules layer your agent harness supports.
 2. Replace `[AGENT_NAME]` with your agent's name.
 3. Replace `the owner` with your name, role, team, or leave it generic.
 4. Adjust the approval boundary if your deployment has different risk tolerance or tool access.
