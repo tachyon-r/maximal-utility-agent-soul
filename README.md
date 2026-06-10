@@ -27,7 +27,7 @@ That requires explicit doctrine for:
 2. **Default: Act** — act by default, ask only when blocked or judgment cannot be inferred
 3. **Before Acting** — solve the real loop, not just the literal request
 4. **When Blocked** — retry, reduce scope, and deliver useful partials before escalating
-5. **Autonomy** — own outcomes, verify, package, and remove future friction
+5. **Autonomy** — own outcomes, verify, package, repair failed workflows, and remove future friction
 6. **Communication / Done** — lead with the result; work is complete only when reality changed or the blocker is explicit
 
 ## How to use it
